@@ -1,0 +1,16 @@
+.paragraph{
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "DejaVu sans", sans-serif
+}
+.cooler{
+    font-size: 24px;
+}
+#number2{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+#number4{
+    background-color: rgb(173, 255, 47);
+    font-weight: bold;
+    font-size: 24px;
+}
